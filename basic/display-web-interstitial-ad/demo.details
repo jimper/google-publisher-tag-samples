@@ -1,7 +1,7 @@
 ---
  name: Display a web interstitial ad
  description: >
-   Display a GPT managed web interstial ad 3
+   Display a GPT managed web interstial ad 4
  authors:
    - Google Publisher Tag Team
  embed: no
