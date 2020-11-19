@@ -1,6 +1,7 @@
 ---
  name: Lazy loading
- description: Defer the requesting and rendering of ads
+ description: Defer the requesting and rendering of ads. #noembed
  authors:
    - Google Publisher Tag Team
+ id: lazy-loading
 ...
