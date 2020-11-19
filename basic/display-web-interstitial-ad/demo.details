@@ -4,7 +4,6 @@
    Display a GPT managed web interstial ad.
    
    #noembed
- id: display-web-interstitial-ad
  authors:
    - Google Publisher Tag Team
 ...
